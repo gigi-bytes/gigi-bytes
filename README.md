@@ -24,6 +24,7 @@ I enjoy turning tricky issues into clear runbooks, helpful scripts, and smoother
 ## 🚀 Featured Projects
 - [🔐 Login Triage (Bash + SQL)](https://github.com/gigi-bytes/login-triage-bash)  
 - [📊 SQL Utilities](https://github.com/gigi-bytes/sql-utilities)
+- [📧 Email Validation](projects/email_validation/README.md) → Validate user emails against a master list using Python.
 
 ---
 
