@@ -32,6 +32,7 @@ I enjoy turning tricky issues into clear runbooks, helpful scripts, and smoother
 - Git & GitHub workflows  
 - DevOps basics (pipelines, configs, monitoring)  
 - Cloud fundamentals (AWS, Azure, GCP)
+- VS (visual studio) code
 
 ---
 
